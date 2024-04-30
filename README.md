@@ -7,7 +7,7 @@ Developed Udemig course website with HTML and CSS
 
 
 # Screenshot
-![](images/udemigss.PNG)
+![](images/udemigss.png)
 
 
 # GIF
